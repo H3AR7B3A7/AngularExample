@@ -3,9 +3,14 @@
     "",
     "\\src",
     "\\src\\app",
+    "\\src\\app\\components",
+    "\\src\\app\\components\\todo-item",
+    "\\src\\app\\components\\todos",
+    "\\src\\app\\models",
+    "\\src\\app\\services",
     "\\src\\assets",
     "\\src\\environments"
   ],
-  "SelectedNode": "\\src\\app\\app.component.ts",
+  "SelectedNode": "\\src\\app\\components\\todos\\todos.component.ts",
   "PreviewInSolutionExplorer": false
 }
