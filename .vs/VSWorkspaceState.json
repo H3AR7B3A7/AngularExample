@@ -4,13 +4,13 @@
     "\\src",
     "\\src\\app",
     "\\src\\app\\components",
-    "\\src\\app\\components\\todo-item",
-    "\\src\\app\\components\\todos",
-    "\\src\\app\\models",
-    "\\src\\app\\services",
-    "\\src\\assets",
+    "\\src\\app\\components\\add-todo",
+    "\\src\\app\\components\\layout",
+    "\\src\\app\\components\\layout\\header",
+    "\\src\\app\\components\\pages",
+    "\\src\\app\\components\\pages\\about",
     "\\src\\environments"
   ],
-  "SelectedNode": "\\src\\app\\components\\todos\\todos.component.ts",
+  "SelectedNode": "\\src\\app\\components\\layout\\header\\header.component.html",
   "PreviewInSolutionExplorer": false
 }
