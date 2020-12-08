@@ -1,5 +1,7 @@
-# TodoList
+[![Uptime Robot status](https://img.shields.io/uptimerobot/status/m786602102-a9a907a882c742847fb79395?label=Todo%20app&style=for-the-badge)](https://react-first-todo-app.netlify.app/)
 
+# Angulat Todo App
+Also see the exact same application in React [here](https://github.com/H3AR7B3A7/ReactExample/blob/master/README.md).
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
 
 ## Development server
